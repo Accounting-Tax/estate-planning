@@ -1,6 +1,6 @@
 # Death & Taxes 1: Estate Planning Overview (Summary)
 - Always consult professionals for tailored advice on legal, financial, and tax matters.
-- 
+
 ## 1. Introduction to Estate Planning
 - Estate planning involves the structuring of personal and financial affairs to ensure that assets are passed on in a tax-effective and secure manner after death.
 - The key focus areas include asset protection, tax considerations, managing family law risks, and ensuring the right people inherit.
